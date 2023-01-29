@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.795c58cf.css",
-    "main.js": "/portfolio/static/js/main.19601bfd.js",
-    "static/media/black.mp4": "/portfolio/static/media/black.8b2c8b473baf3fd56248.mp4",
-    "static/media/me.png": "/portfolio/static/media/me.d593f67688d53a72d624.png",
-    "static/media/title-logo.png": "/portfolio/static/media/title-logo.63a1bbb066d3962e7d60.png",
+    "main.css": "/portfolio/static/css/main.a95cc0e7.css",
+    "main.js": "/portfolio/static/js/main.df70aab1.js",
+    "static/media/ucd-lf.png": "/portfolio/static/media/ucd-lf.53d14351a62bd5c98d09.png",
+    "static/media/des157.png": "/portfolio/static/media/des157.2b6ec151a8df4a050f71.png",
+    "static/media/museum.png": "/portfolio/static/media/museum.ae8aab956be1df3651b4.png",
+    "static/media/threads.png": "/portfolio/static/media/threads.901dea7c3964a5e8f146.png",
+    "static/media/postcard.png": "/portfolio/static/media/postcard.6256c3e09a254b2e6b27.png",
+    "static/media/pomocon.png": "/portfolio/static/media/pomocon.46aba94761a3cefa8719.png",
+    "static/media/card-bank.png": "/portfolio/static/media/card-bank.dd072bfde30818f9f6c9.png",
+    "static/media/iapply-logo.png": "/portfolio/static/media/iapply-logo.18177be7127829ad1515.png",
+    "static/media/worldWeb.svg": "/portfolio/static/media/worldWeb.7863379632aee074c78e2b900c82ec61.svg",
+    "static/media/hexapawn.png": "/portfolio/static/media/hexapawn.0b241a33353342d1ceb5.png",
+    "static/media/sparks.svg": "/portfolio/static/media/sparks.9412f4338778e53c48bdb09644842428.svg",
+    "static/media/sparks2.svg": "/portfolio/static/media/sparks2.ed75e1a99959257e3925ba7abfbb46ce.svg",
     "index.html": "/portfolio/index.html",
-    "main.795c58cf.css.map": "/portfolio/static/css/main.795c58cf.css.map",
-    "main.19601bfd.js.map": "/portfolio/static/js/main.19601bfd.js.map"
+    "main.a95cc0e7.css.map": "/portfolio/static/css/main.a95cc0e7.css.map",
+    "main.df70aab1.js.map": "/portfolio/static/js/main.df70aab1.js.map"
   },
   "entrypoints": [
-    "static/css/main.795c58cf.css",
-    "static/js/main.19601bfd.js"
+    "static/css/main.a95cc0e7.css",
+    "static/js/main.df70aab1.js"
   ]
 }
