@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a95cc0e7.css",
-    "main.js": "/portfolio/static/js/main.df70aab1.js",
+    "main.css": "/portfolio/static/css/main.fae8c363.css",
+    "main.js": "/portfolio/static/js/main.0bda2bd7.js",
     "static/media/ucd-lf.png": "/portfolio/static/media/ucd-lf.53d14351a62bd5c98d09.png",
     "static/media/des157.png": "/portfolio/static/media/des157.2b6ec151a8df4a050f71.png",
     "static/media/museum.png": "/portfolio/static/media/museum.ae8aab956be1df3651b4.png",
+    "static/media/postcard.png": "/portfolio/static/media/postcard.83035372d7aeb9b92a9b.png",
     "static/media/threads.png": "/portfolio/static/media/threads.901dea7c3964a5e8f146.png",
-    "static/media/postcard.png": "/portfolio/static/media/postcard.6256c3e09a254b2e6b27.png",
+    "static/media/card-bank.png": "/portfolio/static/media/card-bank.2e4af72b989f770cec2d.png",
     "static/media/pomocon.png": "/portfolio/static/media/pomocon.46aba94761a3cefa8719.png",
-    "static/media/card-bank.png": "/portfolio/static/media/card-bank.dd072bfde30818f9f6c9.png",
-    "static/media/iapply-logo.png": "/portfolio/static/media/iapply-logo.18177be7127829ad1515.png",
+    "static/media/iapply.png": "/portfolio/static/media/iapply.e2d2c33ace7758c0eea6.png",
     "static/media/worldWeb.svg": "/portfolio/static/media/worldWeb.7863379632aee074c78e2b900c82ec61.svg",
     "static/media/hexapawn.png": "/portfolio/static/media/hexapawn.0b241a33353342d1ceb5.png",
-    "static/media/sparks.svg": "/portfolio/static/media/sparks.9412f4338778e53c48bdb09644842428.svg",
+    "static/media/sparks1.svg": "/portfolio/static/media/sparks1.9412f4338778e53c48bdb09644842428.svg",
     "static/media/sparks2.svg": "/portfolio/static/media/sparks2.ed75e1a99959257e3925ba7abfbb46ce.svg",
+    "static/media/wires1.svg": "/portfolio/static/media/wires1.00512ba7e3b7467a61ea267d5e6edb8f.svg",
+    "static/media/wires2.svg": "/portfolio/static/media/wires2.6d52fa62cc7ff7eb5962d8a72ab33074.svg",
     "index.html": "/portfolio/index.html",
-    "main.a95cc0e7.css.map": "/portfolio/static/css/main.a95cc0e7.css.map",
-    "main.df70aab1.js.map": "/portfolio/static/js/main.df70aab1.js.map"
+    "main.fae8c363.css.map": "/portfolio/static/css/main.fae8c363.css.map",
+    "main.0bda2bd7.js.map": "/portfolio/static/js/main.0bda2bd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.a95cc0e7.css",
-    "static/js/main.df70aab1.js"
+    "static/css/main.fae8c363.css",
+    "static/js/main.0bda2bd7.js"
   ]
 }
