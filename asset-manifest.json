@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6aa3433f.css",
-    "main.js": "/portfolio/static/js/main.d70b2b97.js",
+    "main.css": "/portfolio/static/css/main.f102a160.css",
+    "main.js": "/portfolio/static/js/main.ca7d7dc2.js",
     "static/media/ucd-lf.png": "/portfolio/static/media/ucd-lf.53d14351a62bd5c98d09.png",
     "static/media/des157.png": "/portfolio/static/media/des157.2b6ec151a8df4a050f71.png",
     "static/media/museum.png": "/portfolio/static/media/museum.ae8aab956be1df3651b4.png",
     "static/media/postcard.png": "/portfolio/static/media/postcard.83035372d7aeb9b92a9b.png",
     "static/media/threads.png": "/portfolio/static/media/threads.901dea7c3964a5e8f146.png",
-    "static/media/robotic-hand.svg": "/portfolio/static/media/robotic-hand.ecd0546b9190c898a4ae5fc9d5701427.svg",
+    "static/media/robotic-hand.svg": "/portfolio/static/media/robotic-hand.81d93514074f55df8d9b4d5f963870e0.svg",
     "static/media/card-bank.png": "/portfolio/static/media/card-bank.2e4af72b989f770cec2d.png",
     "static/media/pomocon.png": "/portfolio/static/media/pomocon.46aba94761a3cefa8719.png",
     "static/media/iapply.png": "/portfolio/static/media/iapply.e2d2c33ace7758c0eea6.png",
@@ -18,11 +18,11 @@
     "static/media/wires1.svg": "/portfolio/static/media/wires1.00512ba7e3b7467a61ea267d5e6edb8f.svg",
     "static/media/wires2.svg": "/portfolio/static/media/wires2.6d52fa62cc7ff7eb5962d8a72ab33074.svg",
     "index.html": "/portfolio/index.html",
-    "main.6aa3433f.css.map": "/portfolio/static/css/main.6aa3433f.css.map",
-    "main.d70b2b97.js.map": "/portfolio/static/js/main.d70b2b97.js.map"
+    "main.f102a160.css.map": "/portfolio/static/css/main.f102a160.css.map",
+    "main.ca7d7dc2.js.map": "/portfolio/static/js/main.ca7d7dc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.6aa3433f.css",
-    "static/js/main.d70b2b97.js"
+    "static/css/main.f102a160.css",
+    "static/js/main.ca7d7dc2.js"
   ]
 }
