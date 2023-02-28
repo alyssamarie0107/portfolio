@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.11ef7908.css",
-    "main.js": "/portfolio/static/js/main.98faea31.js",
+    "main.css": "/portfolio/static/css/main.77119d58.css",
+    "main.js": "/portfolio/static/js/main.fa8a34d1.js",
     "static/media/ucd-lf.png": "/portfolio/static/media/ucd-lf.53d14351a62bd5c98d09.png",
     "static/media/des157.png": "/portfolio/static/media/des157.2b6ec151a8df4a050f71.png",
     "static/media/museum.png": "/portfolio/static/media/museum.ae8aab956be1df3651b4.png",
@@ -15,14 +15,14 @@
     "static/media/hexapawn.png": "/portfolio/static/media/hexapawn.0b241a33353342d1ceb5.png",
     "static/media/sparks1.svg": "/portfolio/static/media/sparks1.16c7e8e2bb720acfecc0a588935b85e6.svg",
     "static/media/sparks2.svg": "/portfolio/static/media/sparks2.f4d59a150283ab797e4521b48edabc58.svg",
-    "static/media/wires1.svg": "/portfolio/static/media/wires1.00512ba7e3b7467a61ea267d5e6edb8f.svg",
-    "static/media/wires2.svg": "/portfolio/static/media/wires2.6d52fa62cc7ff7eb5962d8a72ab33074.svg",
+    "static/media/wires1.svg": "/portfolio/static/media/wires1.8f6bd4d528836f67ffeca660b0adcdb0.svg",
+    "static/media/wires2.svg": "/portfolio/static/media/wires2.f8774d3bfb5c8d31191484cff845cbbd.svg",
     "index.html": "/portfolio/index.html",
-    "main.11ef7908.css.map": "/portfolio/static/css/main.11ef7908.css.map",
-    "main.98faea31.js.map": "/portfolio/static/js/main.98faea31.js.map"
+    "main.77119d58.css.map": "/portfolio/static/css/main.77119d58.css.map",
+    "main.fa8a34d1.js.map": "/portfolio/static/js/main.fa8a34d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.11ef7908.css",
-    "static/js/main.98faea31.js"
+    "static/css/main.77119d58.css",
+    "static/js/main.fa8a34d1.js"
   ]
 }
