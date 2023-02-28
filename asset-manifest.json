@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ca5f2b5f.css",
-    "main.js": "/portfolio/static/js/main.ff45e15a.js",
+    "main.css": "/portfolio/static/css/main.11ef7908.css",
+    "main.js": "/portfolio/static/js/main.98faea31.js",
     "static/media/ucd-lf.png": "/portfolio/static/media/ucd-lf.53d14351a62bd5c98d09.png",
     "static/media/des157.png": "/portfolio/static/media/des157.2b6ec151a8df4a050f71.png",
     "static/media/museum.png": "/portfolio/static/media/museum.ae8aab956be1df3651b4.png",
@@ -13,16 +13,16 @@
     "static/media/iapply.png": "/portfolio/static/media/iapply.e2d2c33ace7758c0eea6.png",
     "static/media/worldWeb.svg": "/portfolio/static/media/worldWeb.7863379632aee074c78e2b900c82ec61.svg",
     "static/media/hexapawn.png": "/portfolio/static/media/hexapawn.0b241a33353342d1ceb5.png",
-    "static/media/sparks1.svg": "/portfolio/static/media/sparks1.9412f4338778e53c48bdb09644842428.svg",
-    "static/media/sparks2.svg": "/portfolio/static/media/sparks2.ed75e1a99959257e3925ba7abfbb46ce.svg",
+    "static/media/sparks1.svg": "/portfolio/static/media/sparks1.16c7e8e2bb720acfecc0a588935b85e6.svg",
+    "static/media/sparks2.svg": "/portfolio/static/media/sparks2.f4d59a150283ab797e4521b48edabc58.svg",
     "static/media/wires1.svg": "/portfolio/static/media/wires1.00512ba7e3b7467a61ea267d5e6edb8f.svg",
     "static/media/wires2.svg": "/portfolio/static/media/wires2.6d52fa62cc7ff7eb5962d8a72ab33074.svg",
     "index.html": "/portfolio/index.html",
-    "main.ca5f2b5f.css.map": "/portfolio/static/css/main.ca5f2b5f.css.map",
-    "main.ff45e15a.js.map": "/portfolio/static/js/main.ff45e15a.js.map"
+    "main.11ef7908.css.map": "/portfolio/static/css/main.11ef7908.css.map",
+    "main.98faea31.js.map": "/portfolio/static/js/main.98faea31.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca5f2b5f.css",
-    "static/js/main.ff45e15a.js"
+    "static/css/main.11ef7908.css",
+    "static/js/main.98faea31.js"
   ]
 }
